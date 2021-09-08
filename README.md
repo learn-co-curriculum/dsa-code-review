@@ -12,9 +12,9 @@ Phase of the program.
 
 - Choose a challenge you have both completed.
 - Share the link to your repo with your partner.
-- Write the critique and share it with your partner over Slack. Alternatively,
-  fork your partner's repo, add your comments to the code or in a new file, and
-  then make a Pull Request.
+- Write the critique and share it with your partner over Slack.
+  - Alternatively, fork your partner's repo, add your comments to the code or in
+    a new file, and then make a Pull Request.
 
 ## How to Write a Good Code Review
 
